@@ -1,0 +1,38 @@
+INSTANT Inc. — Company Handbook (Sample Document)
+
+1. Company Overview
+INSTANT Inc. was founded in 2019 and provides AI-powered analytics tools for
+retail businesses. The company has 240 employees across three offices: San
+Francisco (HQ), Austin, and Berlin. Annual revenue for 2023 was $18.4 million,
+up from $11.2 million in 2022.
+
+2. Product Lines
+- InstantInsight: a dashboard product for retail sales analytics. Released 2020.
+- InstantForecast: a demand forecasting tool using time-series ML models.
+  Released 2022. Currently the fastest-growing product line, with 65% revenue
+  growth year over year.
+- InstantAgent: an AI customer support agent product, released in early 2024.
+
+3. Remote Work Policy
+Employees may work remotely up to 3 days per week. Full-time remote work
+requires manager approval and is limited to roles marked "remote-eligible" in
+the HR system. All employees must be available during core hours, 10am-3pm in
+their local office's timezone.
+
+4. Vacation Policy
+Full-time employees accrue 18 days of paid vacation per year, plus 10 company
+holidays. Vacation carries over up to a maximum of 5 unused days into the next
+calendar year. Employees must submit vacation requests at least 5 business
+days in advance for requests longer than 3 days.
+
+5. Performance Reviews
+Performance reviews happen twice a year, in March and September. Reviews are
+based on: (1) goal completion against quarterly OKRs, (2) peer feedback
+(minimum 3 reviewers), and (3) manager assessment. Promotion cycles align
+with the September review.
+
+6. Engineering Practices
+All engineering teams use a two-week sprint cycle. Code changes require at
+least one peer review approval before merging to the main branch. The
+company's core backend services are written in Python and Go; frontend
+applications use React and TypeScript.
