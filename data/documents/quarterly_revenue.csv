@@ -1,9 +1,0 @@
-quarter,year,product_line,revenue_usd,new_customers
-Q1,2023,InstantInsight,1800000,42
-Q2,2023,InstantInsight,1950000,38
-Q3,2023,InstantInsight,2100000,45
-Q4,2023,InstantInsight,2300000,51
-Q1,2023,InstantForecast,900000,20
-Q2,2023,InstantForecast,1150000,27
-Q3,2023,InstantForecast,1400000,33
-Q4,2023,InstantForecast,1700000,40
